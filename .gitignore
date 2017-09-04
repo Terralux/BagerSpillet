@@ -1,0 +1,41 @@
+# =============== #
+# Unity generated #
+# =============== #
+Bager Spillet/[Tt]emp/
+Bager Spillet/[Oo]bj/
+Bager Spillet/[Bb]uilds/
+Bager Spillet/[Ll]ibrary/
+Bager Spillet/[Ll]ibrary_ANDROID/
+Bager Spillet/[Ll]ibrary_PC/
+Bager Spillet/[Ll]ibrary_IOS/
+Bager Spillet/sysinfo.txt
+Bager Spillet/UnityVS/
+Bager Spillet/UnityVS.meta
+Bager Spillet/LightingData*
+Bager Spillet/ReflectionProbe*
+Bager Spillet/Assets/Scenes/Personal Scenes*
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+Bager Spillet/[Ee]xported[Oo]bj/
+Bager Spillet/*.userprefs
+Bager Spillet/*.csproj
+Bager Spillet/*.pidb
+Bager Spillet/*.suo
+Bager Spillet/*.sln*
+Bager Spillet/*.user
+Bager Spillet/*.unityproj
+Bager Spillet/*.booproj
+
+# ============
+# OS generated
+# ============
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Thumbs.db.meta
